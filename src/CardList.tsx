@@ -38,9 +38,9 @@ import { getTriggerFrame } from "./utils/triggerFrame";
 // import rawTopData from "../public/gaming/mpl_my.json";
 
 // import rawTopData from "../public/youtube/youtube-example.json";
-import rawTopData from "../public/youtube/global.json";
+// import rawTopData from "../public/youtube/global.json";
 // import rawTopData from "../public/youtube/india.json";
-// import rawTopData from "../public/youtube/usa.json";
+import rawTopData from "../public/youtube/usa.json";
 // import rawTopData from "../public/youtube/indonesia.json";
 
 import Intro from "./plugin/Intro";
